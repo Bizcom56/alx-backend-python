@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' Altering a code from wait_n into a new function task_wait_n
+''' altering two codes
 '''
 
 from typing import List
