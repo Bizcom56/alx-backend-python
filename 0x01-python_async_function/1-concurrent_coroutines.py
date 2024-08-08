@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' an async routine called wait_n that takes in 2 int arguments (in this order): n and max_delay
+''' execute multiple coroutines at the same time with async
 '''
 
 import asyncio
